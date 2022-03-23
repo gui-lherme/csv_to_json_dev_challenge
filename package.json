@@ -1,0 +1,15 @@
+{
+  "name": "csvtojsonchallenge",
+  "version": "1.0.0",
+  "description": "Dev Challenge for Job Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Sturmer",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.5",
+    "lodash": "^4.17.15"
+  }
+}
